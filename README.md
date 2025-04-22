@@ -5,8 +5,8 @@ Tutorial: Basic to Advanced Image &amp; Video Processing in Google Colab
 ## Contains 5 Units:
 ### 0.Tutorials for starter to use Google Colab and Python basic
 
-01. Fiko Python basics
-02. Fiko colab-tutorial
+- Fiko Python basics
+- Fiko colab-tutorial
 
 ### I.Image Processing
 
