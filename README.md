@@ -2,7 +2,7 @@
 # Tutorial: From Basic to Advanced Image & Video Processing
 Tutorial: Basic to Advanced Image &amp; Video Processing in Google Colab
 
-## About How to Learn 
+## About Learning: 
  Clone this GitHub repository: https://github.com/Phonepaserth/Tutorial-Basic-to-Advance-Image-Video-Processing.git This repository contains five branches:
 - main
 - lesson-0
